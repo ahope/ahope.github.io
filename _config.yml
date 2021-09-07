@@ -1,4 +1,8 @@
-name: Adrienne Slaughter, Horrible Cop
+name: Adrienne Slaughter
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 permalink: /project/:title
+
+name: Adrienne's Medium Article Feed
+description: The articles I've published on Medium, mostly related to projects I've created. 
+url: https://medium.com/feed/@ahslaughter
