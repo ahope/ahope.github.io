@@ -1,7 +1,8 @@
 - name: Massachusetts Institute of Technology
   description: |
     Majored in Computer Science (6.3).
-- name: Stanford University
+- layout: right
+  name: Stanford University
   description: |
     MS in Education: Learning Design and Technology
 - name: University of Washington
