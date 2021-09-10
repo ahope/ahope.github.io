@@ -1,8 +1,55 @@
-name: Adrienne Slaughter
+
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-permalink: /project/:title
 
-name: Adrienne's Medium Article Feed
-description: The articles I've published on Medium, mostly related to projects I've created. 
-url: https://medium.com/feed/@ahslaughter
+# Site
+repository: ahope/github-pages-with-jekyll
+favicon: images/favicon.ico
+
+version: 1
+
+# Personal info
+name: Adrienne Slaughter
+title: Engineer
+email: aha@
+
+# Social links
+twitter_username: slaughter
+github_username:  ahope
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+instagram_username: ahslaughter
+linkedin_username: ahslaughter
+# pinterest_username:
+# youtube_username:
+# googleplus_username:
+
+# About Section
+# about_title: About Me
+about_profile_image: images/jg.jpg
+about_content: |
+  I do stuff. 
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+more_title: When I'm Not Programming
+more_content: |
+  I do other stuff
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+# sass:
+#   style: compressed
