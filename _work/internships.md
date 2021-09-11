@@ -1,13 +1,13 @@
 ---
 layout: work_page
-title: Northeastern University
-description: A University
+title: Various Internships
+description: Industry Research Labs
 img: /assets/img/12.jpg
-job_title: ASSISTANT CLINICAL PROFESSOR
-location: Seattle, WA
-end_date: 2021
-display_start_date: Jan 2017
-compare_start_date: 2017-01-01
+job_title: Intern
+location: Misc
+end_date: 2008
+display_start_date: 1999
+compare_start_date: 1999-01-01
 ---
 
  The Northeastern University—Seattle campus is home to multiple Master of Science (MS) programs. Primarily teaching in the Align program, a fast-growing, intensive program designed to provide students without background in Computer Science the core competencies to join and complete Northeastern's traditional MS in Computer Science.
