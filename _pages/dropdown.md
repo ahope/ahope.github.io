@@ -1,12 +1,15 @@
 ---
 layout: page
-title: submenus
+title: more of my work
 nav: true
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: where I've worked
+      permalink: /work/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: classes I've taught
+      permalink: /teaching/
+    - title: divider
+    - title: papers I've published
+      permalink: /publications/
 ---
