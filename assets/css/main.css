@@ -7,7 +7,7 @@
  ******************************************************************************/
 :root {
   --global-bg-color: #ffffff;
-  --global-code-bg-color: rgba(245, 126, 66, 0.05);
+  --global-code-bg-color: rgba(181, 9, 172, 0.05);
   --global-text-color: #000000;
   --global-text-color-light: #828282;
   --global-theme-color: #f57e42;
@@ -67,6 +67,43 @@ body.sticky-bottom-footer {
 /*****************************************************************************
 * Projects
 *****************************************************************************/
+/*****************************************************************************
+* Work 
+*****************************************************************************/
+.work a {
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: larger; }
+  .work a:hover .card-title {
+    color: var(--global-theme-color); }
+.work .role_summary {
+  font-weight: lighter; }
+.work .job_title {
+  font-weight: bolder;
+  font-size: larger; }
+.work .time_frame {
+  font-size: smaller; }
+.work .card img {
+  width: 100%; }
+.work .card .card-title {
+  color: #000000; }
+.work .card-item {
+  width: auto;
+  margin-bottom: 10px; }
+  .work .card-item .row {
+    display: flex;
+    align-items: center; }
+.work .grid-item {
+  width: 250px;
+  margin-bottom: 10px; }
+.work h2.category {
+  color: #e8e8e8;
+  border-bottom: 1px solid #e8e8e8;
+  padding-top: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  text-align: right; }
+
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
