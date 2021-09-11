@@ -8,12 +8,16 @@ location: Seattle, WA
 end_date: 2014
 display_start_date: 2015
 compare_start_date: 2015-02-01
-badges: "![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)"
+badges: 
+  - scala
+  - docker
+short_role_summary: Incorporated a user-centered approach to a traditional predictive analytics team. Orchestrated an initiative to make user research part of the company’s design process. Contributed to the systems design and development of predictive models using hundreds of features to predict human behavior.
 ---
 
+{% for item in page.badges%}
+	{% assign badge = site.data.badges[item] %}
+	{% include badge.html %}
+{% endfor %}
 
 
 Mid-stage startup (~200 employees) building a platform to connect homeowners with professionals. 

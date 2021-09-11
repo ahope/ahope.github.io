@@ -8,6 +8,7 @@ location: Bellevue, WA
 end_date: 2017
 display_start_date: 2016
 compare_start_date: 2016-02-01
+short_role_summary: Mid-stage startup (~50 employees) developing knowledge-centric technology expediting knowledge extraction from data in silos to operationalize insights for enterprise businesses.
 ---
 
 Mid-stage startup (~50 employees) developing knowledge-centric technology expediting knowledge extraction from data in silos to operationalize insights for enterprise businesses.

@@ -8,6 +8,7 @@ location: Seattle, WA
 end_date: 2013
 display_start_date: 2014
 compare_start_date: 2014-01-01
+short_role_summary: Independently planned and executed basic and applied research in the domain of personal sensor data. Managed company research efforts with expectations to bring national and international credibility and recognition to the startup technology. Incorporated user research into design and evaluation of product features. Explored personal analytics--combining location data (from mobile applications Saga) and physical activity data in novel interactive visualizations.
 ---
 
 Small startup dedicated to building power-efficient, high-accuracy, constant location tracking on consumer mobile devices. 
