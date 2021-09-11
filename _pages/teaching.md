@@ -2,10 +2,23 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: true
+description: Classes I've taught over the years. 
+nav: false
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<div class="projects">
 
-Organize your courses by years, topics, or universities, however you like!
+<ul>
+	{% for item in site.teaching%}
+        <li>
+              <a href="{{ item.url }}">{{ item.title }}</a>
+         </li>
+      {% endfor %}
+
+
+
+</ul>
+</div>
+
+
+(Reminder to myself)[https://alshedivat.github.io/al-folio/teaching/]

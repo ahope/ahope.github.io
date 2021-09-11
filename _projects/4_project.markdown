@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: The New HI-SPACE
+description: An OpenCV/Raspberry-Pi vision/interaction project. 
 img:
 importance: 3
 category: fun

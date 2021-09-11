@@ -112,6 +112,12 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path
+  work: 
+    output: true
+    permalink: /work/:path
 
 news_limit: 5
 
